@@ -1,0 +1,21 @@
+﻿ html, body
+ { 
+     height: 100%; 
+     width: 100%; 
+}
+
+.main  
+{
+    width: 99%; 
+    height: 400px; 
+    border: 1px solid black; 
+}
+
+.input 
+{ 
+    display:none; 
+}
+
+#content { border-collapse: collapse; border-spacing: 0; }
+
+#content td { border: 1px solid black; width: 30px; height: 24px; }
